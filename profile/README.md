@@ -1,4 +1,4 @@
-# CareerTeam
+![CareerTeam Banner](https://raw.githubusercontent.com/WeAreCareerTeam/.github/refs/heads/main/profile/career-team-banner.png)
 
 ## 🚀 Who We Are
 CareerTeam builds a **San Andreas Multiplayer (SAMP)** server with diverse, exciting gameplay.  
