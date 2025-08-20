@@ -53,8 +53,3 @@ Have ideas or questions?
 - Open a **GitHub Issue**  
 - Join our **community platforms (TBD)**  
 - Or contact us directly via 📧
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**. 📄
